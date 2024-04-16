@@ -5,6 +5,7 @@
 
 # Welcome
 
+
 Welcome to the Sequoia Capital Pitch Deck Obsidian Vault.
 
 This vault is structured according to Barbara Minto's Pyramid Principle, with each section cross-referenced for easy navigation.
